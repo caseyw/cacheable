@@ -1,0 +1,17 @@
+{
+    "name": "caseyw/cacheable",
+    "description": "Simple cache interface",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Casey Wilson",
+            "email": "c@caseyw.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Kah": "src"
+        }
+    }
+}
